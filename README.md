@@ -1,5 +1,13 @@
 # GoogleWorkspaceHackathon
 Submission of Team Imminent for Google Workspace Hackathon 2024 organised by APU.
+
+GOOGLE WEB APPLICATION APP SCRIPT:
+https://script.google.com/macros/s/AKfycbzgZqYmg9TC7yY_QSd4KNxMNSjl3sVg5GW02WUBN3mSbxDootY68Yza-fw31Cn-Cas8Yw/exec
+
+LEAVE EASE LOGIN USER AND PASSWORD (for testing)
+USER ID: A
+PASSWORD: 123
+
 Here are the links for all the Google Workspace tools that we used:
  
 GOOGLE CALENDAR LINK: 
@@ -10,9 +18,6 @@ https://docs.google.com/spreadsheets/d/1hW5thW4s967KKDrZ5NWFckd97Ibc_Qk1nca5gnQL
 
 GOOGLE FORM LINK:
 https://docs.google.com/forms/d/e/1FAIpQLSeDqm-bwzAbHLRCTah0SuDo1ghA4xDJjW3Y4UpiBesiBJaY_g/viewform?usp=sharing
-
-GOOGLE WEB APPLICATION APP SCRIPT:
-https://script.google.com/macros/s/AKfycbzgZqYmg9TC7yY_QSd4KNxMNSjl3sVg5GW02WUBN3mSbxDootY68Yza-fw31Cn-Cas8Yw/exec
 
 GOOGLE APP SCRIPT DEPLOY ID:
 AKfycbzgZqYmg9TC7yY_QSd4KNxMNSjl3sVg5GW02WUBN3mSbxDootY68Yza-fw31Cn-Cas8Yw
