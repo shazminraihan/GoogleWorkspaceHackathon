@@ -9,7 +9,7 @@ GOOGLE SHEETS LINK:
 https://docs.google.com/spreadsheets/d/1hW5thW4s967KKDrZ5NWFckd97Ibc_Qk1nca5gnQLBCI/edit?usp=sharing
 
 GOOGLE FORM LINK:
-https://docs.google.com/forms/d/e/1FAIpQLSeDqm-bwzAbHLRCTah0SuDo1ghA4xDJjW3Y4UpiBesiBJaY_g/viewform?usp=sf_link
+https://docs.google.com/forms/d/e/1FAIpQLSeDqm-bwzAbHLRCTah0SuDo1ghA4xDJjW3Y4UpiBesiBJaY_g/viewform?usp=sharing
 
 GOOGLE WEB APPLICATION APP SCRIPT:
 https://script.google.com/macros/s/AKfycbzgZqYmg9TC7yY_QSd4KNxMNSjl3sVg5GW02WUBN3mSbxDootY68Yza-fw31Cn-Cas8Yw/exec
